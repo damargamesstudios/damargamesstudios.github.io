@@ -1,0 +1,9 @@
+{
+  "name": "DaMar Games Studios",
+  "short_name": "DaMar Games",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06070a",
+  "theme_color": "#06070a",
+  "icons": []
+}
